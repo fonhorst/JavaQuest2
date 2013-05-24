@@ -1,0 +1,14 @@
+#Mon Jan 23 13:47:35 GMT+03:00 2012
+eclipse.preferences.version=1
+encoding//src/Android/JavaQuestView.java=UTF-8
+encoding//src/Android/jDgOperation.java=UTF-8
+encoding//src/Dict/DictionaryStorage.java=UTF-8
+encoding//src/Dict/IExceptionOccured.java=UTF-8
+encoding//src/Dict/IReader.java=UTF-8
+encoding//src/Dict/IWriter.java=UTF-8
+encoding//src/Dict/InOutManager.java=UTF-8
+encoding//src/Dict/InvalidStructureException.java=UTF-8
+encoding//src/Dict/ProcessingManager.java=UTF-8
+encoding//src/Dict/ProgressChangedEventArgs.java=UTF-8
+encoding//src/Dict/ReadEnum.java=UTF-8
+encoding//src/Dict/WriteEnum.java=UTF-8
